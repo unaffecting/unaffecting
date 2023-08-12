@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v6y4&label=Profile%20views&color=0e75b6&style=flat" alt="v6y4" /> </p>
 
 
-![e87e024a-356a-4029-9f38-ac44f73a2439 (2)](https://github.com/v6y4/v6y4/assets/121084767/c8f890de-05e1-4d43-99f4-fabd5b674f78)
+![pngegg (32) (1)](https://github.com/v6y4/v6y4/assets/121084767/6d73e59e-fcdd-4a72-9dbf-45671dc45e8f) ![pngegg (31) (1)](https://github.com/v6y4/v6y4/assets/121084767/58252327-04e0-4cd0-8c4b-a0f1b15811f9)
+
+
+
+
 
 
 
