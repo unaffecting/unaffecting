@@ -1,8 +1,8 @@
 <h1 align="center">my name is v6y4</h1
-<h3 align="center">Just an average high schooler</h3>
+<h3 align="center">just a developer who likes anime and waifus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v6y4&label=Profile%20views&color=0e75b6&style=flat" alt="v6y4" /> </p>
-<img align="right" width="500" height="500" src="https://snubbyowo.github.io/pictures/circle.png">
+<img align="right" width="500" height="500" src="https://v6y4.github.io/pictures/circle.png">
 
 
 
