@@ -2,7 +2,8 @@
 <h3 align="center">just a developer who likes anime and waifus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v6y4&label=Profile%20views&color=0e75b6&style=flat" alt="v6y4" /> </p>
-https://media.giphy.com/media/IDaZekdtb62Yeo0EMC/giphy.gif ![](IDaZekdtb62Yeo0EMC/giphy.gif)
+![myfile] ![a_07bf5eeb737ad4a1e71f48be84374e72 (1)](https://github.com/v6y4/v6y4/assets/121084767/a6237d17-1dbd-4b7f-8cb1-ceabb08792eb)
+
 
 
 
