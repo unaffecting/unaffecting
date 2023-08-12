@@ -2,7 +2,7 @@
 <h3 align="center">just a developer who likes anime and waifus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v6y4&label=Profile%20views&color=0e75b6&style=flat" alt="v6y4" /> </p>
-<iframe src="https://giphy.com/embed/IDaZekdtb62Yeo0EMC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HIDIVE-waifu-atena-mother-of-the-goddess-dormitory-IDaZekdtb62Yeo0EMC">via GIPHY</a></p> ![](name-of-giphy.gif)
+https://media.giphy.com/media/IDaZekdtb62Yeo0EMC/giphy.gif ![](IDaZekdtb62Yeo0EMC/giphy.gif)
 
 
 
