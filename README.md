@@ -2,7 +2,8 @@
 <h3 align="center">just a developer who likes anime and waifus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v6y4&label=Profile%20views&color=0e75b6&style=flat" alt="v6y4" /> </p>
-<img align="right" width="500" height="500" src="[https://v6y4.github.io/pictures/circle.png](https://github.com/account)">
+<img align="right" width="500" height="500" src="![a_07bf5eeb737ad4a1e71f48be84374e72 (1)](https://github.com/v6y4/v6y4/assets/121084767/b436d592-4ea2-4486-8975-96cdd31977e9)
+">
 
 
 
