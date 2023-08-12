@@ -2,8 +2,8 @@
 <h3 align="center">just a developer who likes anime and waifus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v6y4&label=Profile%20views&color=0e75b6&style=flat" alt="v6y4" /> </p>
-<img [image](https://github.com/v6y4/v6y4/assets/121084767/cf7ba4b9-4b89-4a63-b51d-0ada57d1e335)
-">
+![](![a_07bf5eeb737ad4a1e71f48be84374e72 (1)](https://github.com/v6y4/v6y4/assets/121084767/3c837e37-e1e0-48c3-b716-2de2cfc1cbb6)
+.gif)
 
 
 
