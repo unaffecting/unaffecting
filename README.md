@@ -16,7 +16,7 @@
 
 
 - Discord - unaffectionately
-- Developer - i like experimenting with anime and waifus
+- Developer - i like experimenting with anime lol
 
 *- Software engineer - 
 C++/C#/Js/Py/Hmtl/Css/Ts = i use all of these but py and js are my favorite*
