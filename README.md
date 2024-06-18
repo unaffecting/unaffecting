@@ -1,5 +1,5 @@
-<h1 align="center">Waifu Ai</h1
-<h3 align="center">just a developer who likes anime and waifus</h3>
+<h1 align="center">retired</h1
+<h3 align="center">just a developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v6y4&label=Profile%20views&color=0e75b6&style=flat" alt="v6y4" /> </p>
 
